@@ -1,8 +1,6 @@
 import requests
 
-# Yeh features tu apne model ke liye bhej raha hai.
-# Features ko apne model ke according update kar.
-# These features are hypothetical and will need to be adjusted based on your model's training.
+# These features are hypothetical and will need to be adjusted based on our model's training.
 features = [0.8, 1.5, 3.9, 1.1, 2.0, 1.3, 0.9, 0.6, 0.5, 1.9, 0.8]
 
 
